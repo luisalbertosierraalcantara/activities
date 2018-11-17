@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Activity - Login P1</string>
+    <string name="My_name">Luis A. Sierra</string>
+    <string name="My_Descriptions">I am softwares developer specialized in android develoment.</string>
+
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="projects">Projects</string>
+    <string name="dialog_body_message">Wrong password or Username</string>
+    <string name="dialog_title_message">Authentication failed</string>
+    <string name="button_share">Share Profile</string>
+    <string name="profile_label_stars">Stars</string>
+    <string name="profile_label_repos">Repos</string>
+    <string name="profile_about_text_default">About text ...</string>
+    <string name="profile_name_default">Person Name</string>
+
+</resources>
