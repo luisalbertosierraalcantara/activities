@@ -14,7 +14,7 @@ This project will be used as a guide for the lesson of "Activities and Intents" 
 # Screen Examples:
 
 ## Login Activity
-<img src="https://raw.githubusercontent.com/wilsonrc/Activities/master/ScreentShots/LoginScreenShot.PNG" align="center" height="500px" width="282px"/>
+<img src="https://raw.githubusercontent.com/luisalbertosierraalcantara/activities/master/ScreentShots/Screenshot%20from%202018-11-15%2021-35-14.png" align="center" height="500px" width="282px"/>
 
 ## Profile Activity
-<img src="https://raw.githubusercontent.com/wilsonrc/Activities/master/ScreentShots/ProfileScreenShot.png" align="center" height="500px" width="282px"/>
+<img src="https://raw.githubusercontent.com/luisalbertosierraalcantara/activities/master/ScreentShots/Screenshot%20from%202018-11-15%2021-34-31.png" align="center" height="500px" width="282px"/>
